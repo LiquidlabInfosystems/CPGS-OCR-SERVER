@@ -1,2 +1,2 @@
- python manage.py udp_server
- 
+# CPGS Firmware 
+## release Date 01/05/2025
